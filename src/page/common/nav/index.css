@@ -1,0 +1,29 @@
+/*
+ * @Author: garychen 
+ * @Date: 2017-08-06 17:32:06 
+ * @Last Modified by: garychen
+ * @Last Modified time: 2017-08-06 18:21:23
+ */
+.nav{
+    background: #ddd;
+    height: 30px;
+    line-height: 30px;
+}
+/* 用户 */
+.nav .user{
+    float: left;
+}
+.nav .user .link{
+    margin-right: 5px;
+}
+.nav .user.login{
+    display: none;
+}
+/* 导航 */
+.nav .nav-list{
+    float: right;
+}
+.nav .nav-list .nav-item{
+    display: inline-block;
+    margin-left: 5px;
+}

@@ -1,0 +1,25 @@
+.header .logo{
+    font-size: 40px;
+    font-weight: bold;
+    color: #39f;
+    text-decoration: none;
+    position: absolute;
+    top: 4px;
+    left: 70px;
+}
+.header .search-con{
+    width: 600px;
+    margin: 20px auto;
+}
+.header .search-con .search-input{
+    width: 500px;
+    height: 36px;
+    line-height: 36px;
+    padding-left: 10px;
+    font-size: 15px;
+    border: 2px solid #39f;
+    outline: none;
+}
+.header .search-con .search-btn{
+    position: absolute;
+}

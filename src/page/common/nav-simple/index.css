@@ -1,0 +1,18 @@
+/*
+ * @Author: garychen 
+ * @Date: 2017-08-06 17:03:47 
+ * @Last Modified by: garychen
+ * @Last Modified time: 2017-08-06 18:42:38
+ */
+.nav-simple{
+    height: 60px;
+    line-height: 60px;
+    border-bottom: 1px solid #aaa;
+    background: #fff;
+}
+.nav-simple .logo{
+    font-size: 30px;
+    font-weight: bold;
+    color: #39f;
+    text-decoration: none;
+}
