@@ -2,13 +2,17 @@
  * @Author: garychen 
  * @Date: 2017-08-06 19:05:58 
  * @Last Modified by: garychen
- * @Last Modified time: 2017-08-06 19:14:53
+ * @Last Modified time: 2017-08-06 23:57:47
  */
+ .footer{
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
 .footer .links{
-    width: 110px;
-    margin: 10px auto;
+    text-align: center;
+    line-height: 30px;
 }
 .footer .copyright{
-    width: 280px;
+    text-align: center;
     margin: 10px auto;
 }

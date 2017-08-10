@@ -2,7 +2,7 @@
  * @Author: garychen 
  * @Date: 2017-08-06 11:45:46 
  * @Last Modified by: garychen
- * @Last Modified time: 2017-08-06 13:00:34
+ * @Last Modified time: 2017-08-08 11:18:04
  */
 var Hogan = require('hogan');
 var conf = {
@@ -78,7 +78,7 @@ var _cshop = {
     },
     // 统一登录处理
     doLogin: function(){
-        window.location.href = './login.html?redirect=' + encodeURIComponent(window.location.href);
+        window.location.href = './user-login.html?redirect=' + encodeURIComponent(window.location.href);
     },
     goHome : function(){
         window.location.href = './index.html';
